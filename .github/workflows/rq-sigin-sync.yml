@@ -6,8 +6,8 @@ on:
     - cron: '30 9,10,16 * * *'
 
 env:
-  GITHUB_NAME: XiaoSiHwang
-  GITHUB_EMAIL: 1009326507@qq.com
+  GITHUB_NAME: zacks9527
+  GITHUB_EMAIL: zacks9527@163.com
   AESKEY: ${{ secrets.AESKEY }}
   RQ_EMAIL: ${{ secrets.RQ_EMAIL }}
   RQ_PASSWORD: ${{ secrets.RQ_PASSWORD }}
